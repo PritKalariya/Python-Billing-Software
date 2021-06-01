@@ -1177,7 +1177,7 @@ class Employee:
                 flag = 1
 
                 for k in to_delete:
-                    if k == "EMP1000" or k == "EMP2000":
+                    if k == "EMP1000":
                         flag = 0
                         break
                     else:
