@@ -5,6 +5,9 @@ This is a Billing Software project, with Inventory and Employee Management. It i
 ## Pre-Requisites
 `Python 3.7`
 
+## Run / Execute
+$ python main.py
+
 ## Screenshots
 #### Main PAGE
 ![main window](https://github.com/PritKalariya/Billing-Software/blob/main/images/main.png)
