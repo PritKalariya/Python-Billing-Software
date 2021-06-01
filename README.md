@@ -17,3 +17,13 @@ This is a Billing Software project, with Inventory and Employee Management. It i
 
 #### Admin DASHBOARD
 ![Admin Dashboard](https://github.com/PritKalariya/Billing-Software/blob/main/images/admin.png)
+
+## Login Information
+#### Admin Login
+id: EMP1000<br>
+password: admin01
+
+## Login Information
+#### Employee Login
+id: EMP3000<br>
+password: emp01
