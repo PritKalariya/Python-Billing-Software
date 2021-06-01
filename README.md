@@ -23,7 +23,6 @@ This is a Billing Software project, with Inventory and Employee Management. It i
 id: EMP1000<br>
 password: admin01
 
-## Login Information
 #### Employee Login
 id: EMP3000<br>
 password: emp01
